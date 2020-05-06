@@ -2,7 +2,7 @@
 
 разархивируйте zip:
         
-        unzip PostgreSQL-master.zip
+        unzip PostgreSQL.zip
         
 запустите стенд
         
